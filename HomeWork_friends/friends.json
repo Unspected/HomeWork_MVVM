@@ -1,0 +1,15 @@
+{   "username": "1",
+    "password": "1",
+    "friendList": [{
+        "name": "Alex",
+        "mail": "alex@gmail.com"
+    },
+        {"name": "Maria",
+            "mail": "maria18@gmail.com"
+        },
+        {
+            "name": "Sabrina",
+            "mail": "littleSabrina@gmail.com"
+        }
+    ]
+}
